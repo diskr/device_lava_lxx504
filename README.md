@@ -1,4 +1,4 @@
-# Android device tree for LAVA LAVA LXX504 (LXX504)
+# Android device tree for LAVA Agni 2 5g (LXX504)
 
 ```
 #
