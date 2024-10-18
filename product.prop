@@ -1,0 +1,12 @@
+remote_provisioning.hostname=remoteprovisioning.googleapis.com
+ro.com.android.mobiledata=false
+ro.com.google.acsa=true
+ro.com.google.clientidbase=android-lava
+ro.com.google.gmsversion=14_202401
+ro.com.google.lens.oem_camera_package=com.mediatek.camera
+ro.dalvik.vm.enable_uffd_gc=true
+ro.opa.eligible_device=true
+ro.product.ab_ota_partitions=boot,product,system,system_ext,vendor
+ro.product.cpu.pagesize.max=4096
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
